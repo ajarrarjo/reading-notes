@@ -7,7 +7,7 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 
 | Column 1     | Column 2     |
 | :-------:     | :----------: |
-|First readme  | [read_01](https://ajarrarjo.github.io/reading-notes/read_1) |
-|Second readme| [read_2](read) |
-|Third readme| [markdown](markdown) |
+|First readme  | [Text Editor](https://ajarrarjo.github.io/reading-notes/read_1) |
+|Second readme| [Growth Mindset](https://ajarrarjo.github.io/reading-notes/read) |
+|Third readme| [markdown](https://ajarrarjo.github.io/reading-notes/markdown) |
 
