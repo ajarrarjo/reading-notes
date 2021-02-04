@@ -17,7 +17,9 @@ To rename a remote’s name use the git remote rename command
 **Removing Remotes**
 
 We also use the git remote rm command
- THERE ARE MORE COMANDS THAT COULD HELP, ***YOU CAN FOLLOW THE NEXT LINK IF YOU ARE INTERESTED TO LEARN MORE: https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2***	
+ THERE ARE MORE COMANDS THAT COULD HELP, ***YOU CAN FOLLOW THE NEXT LINK IF YOU ARE INTERESTED TO LEARN MORE:***
+ 
+ ***https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2***	
 
 
  
