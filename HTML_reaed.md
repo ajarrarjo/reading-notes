@@ -1,1 +1,110 @@
-![Under Constructions](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1C6kjSzz_Y2HxfknElnoNw_2nr4-Okxk7g&usqp=CAU)
+![HTML](https://cdn.mos.cms.futurecdn.net/Djn7vQf4tLd5yTMVYQvyAP.jpg)
+**HTML & CSS**
+
+***Design and Build Websites***
+
+**An overview of HTML & CSS**
+
+* **HTML5**
+* **Layout**
+* **Extra Markup**
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3xy2aX_c_CXZmRoatz0gzMtEhlNVosPwfg&usqp=CAU)
+
+***Many web pages act like electronic versions of these
+documents.structure is very important in helping
+readers to understand the messages you are trying to convey
+and to navigate around the document.***
+
+![FirstWebPage](https://www.bradentonwebsitedesign.com/NotePad_Tutorials/images/FirstWebPage_screen.png)
+
+***Page Structure Concepts***
+
+***Well-structured content allows more efficient navigation and processing. Use HTML and WAI-ARIA to improve navigation and orientation on web pages and in applications.***
+
+* **Page Regions:** Identify and mark up regions on web pages using HTML5 and WAI-ARIA roles.
+
+* **Labeling Regions:** Label regions to allow users to distinguish and access them.
+
+* **Headings:** Add headings and nest them logically to label sections of web pages according to their relationships and importance.
+
+* **Content Structure:** Mark up the content on a page in a way that uses appropriate and meaningful elements.
+
+![HTML](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACqCAMAAADGFElyAAABjFBMVEU3Jy42Ji2NiIowHSUyICgtGSIzJi6WlJguGyQxHyc0Iyo6KzIyEyE1ISoqCBluqZQ7LzVgi3tMX1hXTlNpYmdJTU8kChfLyMlgNDA+OTx5dHldVVopIy10tZ0wDR6wUDaSRTOEQDKAfYE+QkTCVjfYXzlvaW6HhIlHO0FKPkRDNjxRRkxEKy96dXpiWl8zGyZsODF2PDJOLi8/KS5TbmRTMC9SbGNFMC4dGiZ+dXRRT1xmST43LTpfYXSfn6NNYVrd3NwYAAA2Gxx8gI1XOTFnWFQmEihzW1B9b26ThYBNOTZ6Z1s8PVFcSEVIRFF6W0psbno1JjhxY2E6M0NKT2SXi4csKkesq7BkTkt+ip0VABJ3eIlgPSktDBOilJY5DxJgZHp3UT0nAAA+HhqypZqRmKl+Vzeih3IoJj1zVUdxf50cGDZMWXhGS2CFc2CjkYYdCCA5PV2BbFdATXBRSl8rLFAOAABPLiFMOElJMT+jrbEqGzJaVWlcTENUOD5kRDrmZDo0QWsgIkcfDy3xIQ2BAAAgAElEQVR4nO19jWPTxrLvrvVhaVWf5yKTCzZ5l4qHPyTLoQjqyrHTe/yBLX8hW04argtNL/AO9JCkob3v0BMo973zj7/ZlfyRxCFuoY04N+OAZ3d2ZflnaWdmNbOL/k2LXNDZFI2if/mzdAoJK0RZEYBWVryewK+c1u6/A3E3bqB/WUH4kwWE8CBa3xiufb1dMoeDjZVxR0JoUcPQUmyNrGF4xYAYQ4A9UTdh8ALhXN2Ny4AUjv+PBbTGPXj57xvjb6IPa4+i30aFlb+/FT9Z1DC0dOnOjU/xp1c/vXzni8ufKp/GP71x56tLd64Ce/XTS1/doXUKqwMR1N2BuhusHesQhxfUXQrqrjKkrq6uxU8QRiu19czONzXHjUSqkYe1dRnhk81CS6sxgrD/AjqdQceYxe3QjQCp/4lPEEKIEzle5GRZkpCEOAI1J5uFlAheXQu+OyN8lEUT9jhzpG6+wxQp9E9GGDGkPhxdILUsXSC1LF0gtSxdILUsXSC1LF0gtSwtgRSREaH2CQZDDiPug37870d/CFL42hwh0nVeONYgYZUffKfHvc0qRtdCS0hEIiNgVtcCxq/DIro2E84YHAhP1B3picUFSOHb/zqj69eeff0fL/Y2a2knMv4uEn188ES4dv1fQ0rXr123Prvy+ed3P7Ouo9W7n9+68ln+Orqe/+zWrc9uAwPCWyBE19FnTGgx4ZVb0Mqa9bSu3571vDLpuQAp8crNu1emJJLd/Rf7zjiyl3n6v3f+8ix6G4tz4jDR3f+6K95Gt6183oI3uKYCBl5TZiKcMSDMv0NoTYQLkfpfX4pTgnGKx3Fe1mXe6m7m2TglhpO+vClOfDU8GafwAs/vJLOEcNE4BUhdOzaaYf+PSKEezq8BUlP6I0b0BUh9HHSB1LJ0gdSydIHUsnSB1LJ0gdSydIHUsnSB1LJ0gdSydN5I8VyISQJXC16EvX15M2B4TIBZ/QRPy0cEWKZl8i6BfKwrlM9ESjY3ouGlDdVUzHhSTaV1U0neTBSMZBwYI5HIJVd9QRZa6OmUSluYuUTCSCoaCArQQtHmBAUVytC14LdIB12z0CIZB8GZSHEZVeLDSoJWEPyfnbBrSpy7Qoh/TZHZFTPPkDlmKQFZAqkUQVjmRAT+MYeJIBHw2GXEnjEjPvC3eYwnLAcHxogQvyQTkT2vhi5+JyqTEceDs83BVf2bhw3/5LQCPyud8zhFkSLd1s430uu9Q63qZTqjdV5M8ESB8+ATRfZOCkWvIfMKnLakdZvw05bqRCRwrGGpxxOs8GSrMxjyMgLg4GjCznMtJtWeH+ytvNfZhw0pfvfJf3z/pPNXR/CeVHe+eeEMu85KbRhDqJwpjpwiRnKtufXI3tVaMpKebjQrm2u1+gunI6NBptbTIrFap+LudZ17Ue2VHek+EYSNh19Hvxl1hJ196X3OPmxIEbHWHKvOwZNPah1h/M3Oun3PFkqR23D/uHWv1uSR7Da6neROqwGsWRpqkcfu28q2DUjZle3I8MBx3Nd796Cba7Qia7Xmj3/5YXPn/s7eYbRH3ufsQ4cUlnK60u4XrKyEdaus6EQnffodsY7KKQsGn7Iq6jqvtoHVRauvkjhtRktxWlLbotqGTnqcuC1OypXyJBu3So1ykT95Sr+CQoaUKsPoTwmMF+AmL5lpicm7DE2IzPtVtMRetCOVcTz9oxLCCaw1PSInsybvQaD75CDKCTQF6D6f8cuAVCAgkxYkiBhCSwumMUZ4CaSSqfBStJBDBjL0bC5uoP7NnK7nFCgruayeWwVRPJsFgYFmgoCZCIKucwLoygRBi6ngTKRIykyGlUzNzBWUhFLIqapeQIWbKcNIAZPQU0ausFpQCllVzfotfEEcBKl44ohADQQGCFBBV43pMbNMkPMFS3gzQphp3kpc6M0s8k2mBuZxt0Y+zd+Rl7A8MaAfWkqp8RzKoWxczyo5dPWmrrNyLq7rSm41SxkqyClZPZ6lAoUK/BZMgLI6ZTAVzHWdHhNPuuLcEuNUxNRCSxuFBNwgBcMo6AklcTOl5gpwbyWyaiqbWIVbyFBTVMBaMAG0gDclkWOC9LSrTrsqaSbIHhNAVxAso/uE854xOJVWzIIUeHmB34cpQ3y/b20i4OeZaYvTBeSogDHL+n3UagF3jpMoNzFhJkYjntgtfPAfE5ATNiU/3wkU8/QoM5sIT8RkKkfHOyB+eoyQ2VPg9w1agiykqwPXfrUt8QmL56mzpwLkPOZIt06fyXOyXACBlKjyqgXlfk/m2XciMpbo9xkUwKjiVdqDGlOlOnSW+UGPgAAsMdoGl3vAwtFiKlcq8n5/jtlhPOm3qaPNy3KlMYEqbEjx3Y3HDzabzzb+tnt/61FrEKlWbDDMxeh212x1zd73exYio2jkZxCM79e0+tMmXBIjp1EytwniK60DBxxC0rfvZWxlo9eNDCvaGzfTGybK2rC7WezbQlLzHJuDTvuWq9VF7G20K5EmNBORFLVfmZ2Rkx+3LIQ9rQWyCQShQ6ocXR/39nc3iy/uH3TMqlbtw7dBnKlXnKG3Uf/xvo7Ja1P7m1l1K/fNn5ruLwBdpWnXEtsED+zIQcdeQ+iQ+n11U+92VjSvZVd6dubgZfzQ1kHgVEodcw2A6CjaCBxJSdPdX+xaugdIaSs78DG19co2fMyP97WH2tSrDhtS4Pf1vnfyKQF77XLbIAbpp/Ng8fcbfKFnxNRBuoixbhh5w+pn1g297Q3h1++m214Cfn1SaNBOcFwjZuSsfqOcI146308XS41YoiElejFDLg0HfptEuz+Ed1JqZBXDSxShv0HERM9LF8vwMYhP9GQjvOMUnLlu0ekm3zeiIzw9CRizSaAp6FjMBFDD2tARBU+a+RVslMZsno/qEp71YCM3mbWhAjTpFPRnpcnReDJTCmFEKogkIjPldIJ81UToyVI0+eD9lMZHCqfOfM5pwADroz3DiJR/toblvZFAO9F6MPhlLMt+id4vbV7i+W4P0PS25T69ActtqSBAGyoG7cZhWfJLfCHoxlObotTh4WiS7MtkGXMBKxb4nEWnViUJevDcoCHwxvw8TWiR4p82Qfd1k0MYcjNmsdLykk7X3GZ3hVRrjuxGqXafB23XGURhWCYv9qtRLZ+2Y1BlN7vAZn5JgorDffsTt0UNKbcB3/TQWXFtL0KPJkOVpmfsQbLFU2258qBDkOxGHM8RElovag82enNwhBYp2S0edJJua0inNkcNOwL/xsMGT6fsuhFnZ71l7gJSeKsjuI+h7qAT0yrqJgz/vJu33Vrddn9y0hadbF/ra6AGDmxHokjdsytqx3zdgJKs7Q5byZFDx/VDW3DbCnysrX0Cr8q27Vbt+bMPLVKk3yr3QNXBHSZlhmuJ4cB1oDSA3x/3i/1+0fCSYAGB/ciMTyS6bbVfLMGX5ly7WEoWX0fyCXoVETAswTpC5TQtDaA0HMCBx3tgdpVaMVCoCWpdxlTea1mY9FWVmqKRumpY9GjhRwoxhYWp5YyzcKPwOMtKbPQOHKbJiM7a8yzgnxrfWdCdMolbmJ+oQX+cmpZo9yyZfMZUwBQeYSpS0YmvLedOLrxIzZ8JAlT4aXztfIsFZ+hX8fyxhnNeIDl6KIKO6bmZezl3cmFFSlRBd9FTI1Q/iW5dLuXLbfadCOaYFw1KTSZwpQUKj+pHOhEGio+AunPf0MuRA1QksGMxYZqU0KPBzdum+hH+2BUqFDhJSlXnvvoiCi1Sg0hrQBUfeW1Xa3bxx+8GWnG0D5ZzuVHKRUCAuzAGm8WnzYFJPb2Rna/YSqMAnbpao2vnDzo8dd3ahVdvMi3A5mBz2E2+6WpVN1Ks1XftRt9sVmBkwoPo+s6jZjdafPeXDStSeNCqFJw0jBV97bY5ev7iO8Gtb3UUjAatWr9p5kGp2SvaT8/d27v3a1VoZraj6XrN+XFvuHtfcmtvfaTcN8mfOvZus7QNDuF4OKRKsVKvrI9At5U6JbOoWF60Pr776Fm0/u6LKqxIITE5lKhSAgjymaHVrfOlouiCJowlWt1Nqq1Iikv12/1WjBpKpJ9sl1r50fog3fDafMlse2+oXZp800/33JZFiNdLeeleyayXbLjC+rlGN9Ms2fnRNhkMx5vrheLHevchGKT8KSeOGGBAitTZkGkFL5fbwUSd79vxwXA20WS0rRw4hLL/UNB3FumMPjSTMfMXlSyhSXLQjOvn+ROTeccpZEipZPF6BGdV/CYiC7jTSQoXUimshJUQIDXD7VrwDNknNH2G/Gvo1KUzzkZKTp933N07SU0rSRZIl0vSmDxVTetJxcwmCkZ6lQkKIDBphF0im5wF5yVzNHxPMZW0kaJdQaBOBNBC0UBQmAj8gL9lnoye94JG7yBh/inmlzdl/7mn/yQ0eDJK5p6MytMHoMeejMoLn4ySOcHZz2Y+Ijrv2OGPhy6QWpYukFqWLpBals4bKXKO8eZnEw0kYJNg8AriEshcXAKelKfM8fIJ5jTB2ZFmajrMpKdQSknlcmo8hUo3DSMLJSWlG4aeWgUmSwVQo0ILBZoygVIAgaFC1wITxKlApV2ZwDgiiLOuBZRawkbXEqGldLSgIlVRs1lDUSlSOR1KSKWAqKtUkDPitIWRy0JJ8QW0h84EFMIsa6Gzrikm0Jkg6wvirGsKqcv4fRzPy/SfxMs8z3HwH2UYyUduhXnRXIu5RhwtSPLRbr+dBK3Aofm7b3oLATO9+6Yt/MDX2S11UhAw6ESLpSJiUwRJ2X6eeMNYVvIKql4kxCBsapLkLDBfURACJKbacMycTKOuizrhWdiRVyy3GUtIWSeG0pZIoZ39QOvohGwuIUX4WvP7/XZ6/F2tI4/XXzi9ri3QZyR4oBU9m8YOlOh01Is93fDataGFyUFHW0v3vLRVytTdN15620s3vGj7cGPrybCb2N/dtD7ItwgbUjLNBhnujRzhGcsGadIcB/ZkU3brXbuNUSwdrULTSsfdvZ/sNl93DpzIjm2Xaut2pT5qHuzZ7qu9By9Xdl7+5370XrS48uD++4XsT04uZEgR0t2rGJ2o3c5UCXzz3vAwLVS023AtJYp9bZsgMRmpItw1h6Xx/bHd5uXum7SX7FVq626m3n9z8CbhjfdW3HqkutVJvt5sVNbfK11mdnJhQwrRhyuyIBGJhmgQkUfwYmu8wLgksbg5+s0xS2XgOJGFzmGOEI7IkkiddbmcgBFN5Gj+GxF4nqAPQiFDSl35EIHjH+QgJw5q0ggRNt0Mb8GsizybdWHz0PCbTaZOpgzLQ5FncyryEQEfHHO+xdnZtZwW4uzaja9TacWczeSxWbejM3k0V/b0mbx4cjZhNxWoydkxf9VM3ocyfn4P4ibeycSbmZYDb2aufJw5VbC4xdlIyb/HbfPB6P1y2+UlBMvntod6Hn0DbqFkPO1Pn7s3CykjHU8q6VyhkKN3X3DTJXU6OQ4tkiAw6Mw7mz5PT246EGQTtCudV6dd2f2qJgKBSgXL5Lan0Hk/gjmViFYgWJks1ubrPmAU+qasxnyBMlnOTWECv2ax4PgCcMps+TdlGd3Hn/Jg511P5D7M07+jhzx5zBPP+2Z2wftZCcd7LrNOHrOnOAXsI0UGWbAIKo3QEVWLRvSSSYgw9gc/UceEF1U0FcT5ICUzSBIBJk4mAuZ8igrtxKKoZkHJflv6jhWL+o39Nj5uh4XMnkoRzu2U7Py4s7X/oJ5qe6l2bkADzXe+GyTa/UKRhZ3HUu1yoffCsfotrj+M1ep8oc3iyQeRbbnQzsV6XoEmiRR6ZT07HlpEBgFX6pULljd+/rpZVrf5QsOPQC/RKHX4USpwNOpQjux2OVHsOoeJ7aNQhQ0p8Pv+/GB7///8fTuz+Yvr7DRbo8xb+NlffFfZ1sbDoTl6LuKB62ztGwcdaWDfc3TLre84zogmjQwcUzGdXfN5TWvyaJDp0ZCWV61d+9BJ/uhEvNp98/Xzbuc/HfP1tj1y8hhJtcaP97UYINQ8tN11kYxa9tjs/MM5dNy7R7592JAi3Gjv+83OeN3rlAzNGdVbh5sCokh1tVbFaJZqgJSnOV5H2or0Du2Vmp1367t2DwQEDYbpbsT5YaPqpuHSK6edruaM7YYsg8Bj0cZurekNwSH0XKcPh0KDxOaWRkOMu5m2qRUxKW23Si048GHEto6cfeiQQkSo/A0cNkxz02UiSm6bnhO4gDKNqKOx5+DQgc0B/4tIZrHqNKyTUBcQQRtORgL2o1tk6gvKLLIPetBgPWo/UruFK6fbvB/ZJ2GOxvSBSyFzLM6TOhkIsBWOnn34kGIxnXPEYzRVqDgIbv1VtPA7nBiwT/Q4/kFhRCr4+GBlAXrScfipQWWV9akypNOf0xwZjGVfQDWYzIJI5mSi4ifh+DOwvP/VWOoHW6uAMUzLBrk6GEwbHo7jh2dNEQgtUqIet0rtsqVjmr5X7PcGmaK3yXmNcrFcxLjr5N2GVVZZLlXb2yzG1SJdg2N7EGnrig4lr8fi9opepCfislXuOu1yiqvQ0PSYWxdTMJBJmR7X78luHZqXoYIu+qH3e55ddTt8bVvut8vqNPoztEjJprbb0SpvbYlmfHRb2mO3KGmfZF63IpG3MKg7wtilKo5Q0+CZU93ZM+xKzzEGkar7am/cyUUzdZHsNBzPsTDZjWQMxwbdN+rQlF13vRuhSGmVRiTyGHTnsJOsdHgyikSMzdQg8tBtSlr9YNPZadmyHHKkyE6nq9m7NIWDlN4807QqIGUKrtmLRh+DPaBtu937bgsuBFBx97TG6BvBjPa04ZrWKCX3KvVDjc6xj+zWoCUj/Cz6aKtjV2ovu1qbGk/r3rgjwzWVhB5Vt17JtWgWDt569OTZUJLM6sguui0v0qj80hrYfKiRwp5tgb4DJYTY8MGe2MKwwiu8r9dEKIs8dZawQgPxqRRIYQul0KhNJiMKH8R7ytSqh2ZKYOMrfrg+7cHyJfo095E1Y9VQqxBxPsg/rEixIRsvUFz4ZAkfqcDvluF56aTCT5icb4pnPmxQH1qkUDweqL9AjbHZruD0sa/fggwP1oy1CJZ8C1hfcaLJ/hnEX3edZdpM4AkOoejYP3bQH+tKwBIcV0J+TZXHTtduS6oVN4plmvKoqz1QdbpIlSEoJeBUXjdA0HWKskEXpvJUEo8f7FlYwrRlfMspYo5zt61yD9SY3LfFZCxuEE+1WJL/wCYg0EF94nJ0rZyKFcVivy3m2oQjPzmSRxWvrFpdRwo3UmT0fMsxKzaon14ms06IG4n8nHnuJkHxdSObu63OuNappdcJPmiZryMOh7ha51kr2e2Yg8xtt7VG1zTT1rT6ON3MZN66m7sdey3ysJZ+Y9badHkzfPDynuauR4c0XUJ7aFaGGa2wGfE2G16k+FfnMBL92bZ3bOcf4OuEHKn7B53kqNWr1IXasIh51zYrmeZf9wW4irTGvb//DRRf8qcmILVp/2SD409K0bwWPXBsTuJLmboW/WlTq8I19apjDn/WNrv25p+0h9DDjbQTmxLVGYJmvk0KmKLw0DXfbGy8igy7HQmuyS3nMDN8+PQ7+PxDJ+RIMe1GqHUOaizuJ94RZWBSL5CICnXeqMzXfSTOJhIt0Hq+UkOguEig3zDx+yv+CCWXWpYvyFm8FTg10DEOSpUe2K+IYTHuf/4k2y28SE1OYvY/HYSZH4zwcTU2abaIRYHLOFFiRD6q+OY/CZ+omJ1caJGScQAIXZYz+KbYXx8HEY7lyfh5NH8QhRapga3wuiVmCV953h3yis5ndbhfPLC46aZQ3I9/KRvCeP09F379FRRepKJaP+IMMh3Xfb679yyqlVrO7mZRqOUJ/+zJQyH67VNz79+frp+Ra/bhKLxItdw++F1mxx3f39rb6rj9tOPVmodatd+QKs7W/soD8+VO5+KaAu2lEB1uOUXMKuxZ2MBtiDnitUlcx7ziFbnauhT/44AKMVIYz/1RP4MnMx1GfQ1ZXDyd+TtRyJBSBTmstGIWuCMRHLOw82MRHCfi0U8yZ7RYAqnMececn07JjcJcdHnqZhBEXojT6PLVSfw5ghY5P/4cBLlUvHAk/jwQ0K6LBLQrCM5e+ZQY5x10/k4K4s9ZdHnppjELItfVVYMKciz+fF5g+D2YYNLVb6FMutLy8a7/DNkgkyDyyd3Hymzf9vnocnwy/vwdguOB6UvEo39EdN4ZRh8PXSC1LF0gtSxdILUsnTdSIY+IlSfx6ByNR+eDMt0qIYhHn0SbzwQnos25WXz6CcGk6xLx6Mnzjnp9F22oyaO7PanJOA0yn9/t6dimTn4Y+oLdngy2qdN77fbE/cb9KH5/kjTfmyGnxaOT3xKPvliwdN6MiHhJlDHiRf8JJZns78Qmb2WZ2mlsmOBJ8ASQTqtPvGkZDFgOI0563/2djlLIPOQUIV6nUhfcTN2s8pU6M43lfvvZUPI3VaHhFy2LcKO3NHQs4fUkGhNEBkMpQRd9A+ietbjd+8mqMHZetd5vf6ejFDak+O6Tx98/6YgPvuk+eVhr7tjDirY+7hxG7a7Z2t1s8Chmbneb6RfO0LOrmXEzqeXd1m5yz3NWMlo+GfGe5IXo46eP1r3o49G+cPIsfiuFDSkiZp6P1b0H69K403Uilbct86eXr994HbfiNEZNCbpka0Zrc+e5LeucVmpEE13bqRjOPe0eXdw7Uq01D/Z/iLzuRO9KdHOoD0ahQwoLRl9vF+y2IWSL2ayVKw9j5QTKZmM0ZhqzRbqlQq+fKMJglYsX+8NYYVtO9PhcLKdbFScmGKUiMXTdbZXbH3KgChlS/m5PMCJLvL+bE/HXnGR7NwXbNbGVmicbQLH9neRgfycocaw/ZTnpffd3Okpzuz3Bm79SFwqmY+d2e5q2mDF4EfNOwRJIpY332xTmPbu/kyIFne4NQ7eRydL9ZuJxYLBfXtUDxt89hgrYtjJ095hswEwFCLoeFSiBgLUAwdkzeYXz3lPmHZTJGJPdY7J0v5lgk5i0XlBzhVVfkEvQbWSYAFGBv3uMv/EMFfj7y+is67zgyMYzy+w3g8h5byrzTiJzu8cElud0n9G1iWDB7jG/euOZJTIheYEu/yZI8EZf0vybMHk7vwZklkIM49R8UvHq2tE046nrdzzj+GQy8lGG9TsbKT4RjYSZsn4So55Eyas3g3xHlsaYW435+cf+koL+2oKTZMg4NM/5/QhLdkzoJknqCZb+iJL6JIUyPkmZVNJLjOgFGNJCSkomwStIQYg+qFWolcAYVgNWQsD4dQsYNNf8CIOPMD67ZCYkTYaU6YPQZdMWjxI52ZOlV5JpkiXL/50SfBSHl/g4mgk5S/NkVsIk49O3p47lgJ7F4EVMEM605G5PQxgSEtWy2i/SvSngzqU2HnX/qAmFmIfM+xs2IbYPxmTVb5FtXsEbbO8mamXRU+BEHtOtMMhk1W8OCyW66jfH+xthCAlrYNNP/OjWHe5G69/TNbj1SEZPtrzIsGSui2gwTHhap5RrEPCQabLGyB7y1FmOpe2fky2Oru99u6blTXuw0d6JNEtmvWbTpJFIO/GqkUkW+70tuup3owtuIl31ewRHMzs8jmWa3M7LnUcd72Nby5qna3D/st99pNvJkjPsdlZqiTcECbVO5a1WSe3JeGBLXdN5sW5LdEVwPZpmG1vI7nidbmXh3rZj7is7k2hrVfgKZbeZ/Klj7jb7Pbrqd6vBtsKYrvot6nKtc2/j29rdR160/e4vGzakCD5sfL9fhLvP6FuJRrlHvHQb4772t0Gy59H9L+g2Felht6gyNl8axhLBqt9wv1YaUqnRV3r9NJXTVb973WHPHRK66rdaTvf6yWLJzvfbnq56maY35IVCeSiM9+uFj2zNfTqiy9kqHX2pDcaMMplmnul0gznGBpv0+Ds9sS0JeJ6xzBGkOzgxc8YftNl+BITN/VGzjs5902k+5sjBMenn0KqsxZ+WVH/6iD4/CgdInTZE/8oxfhmkmJUQX2Aq/B7Ww+yYiz7xOPlWwkSPL7ISlJP6XzndbpiZC8qk+ZQ52/JMh9nyjEZywaoZYCT2bzJGSfu26CqaGaVHbUp9YlNm/fU46AGCpTv8NTz8FTnmF+/Qz7Y8Q/4USyBTf4On67rIEx+EA2+GO8tPwdNnYGf7N//UT0Y/6NH/qZG6eNp+Cl0gtSxdILUsXSC1LF0gtSxdILUsXSC1LJ0/Uiw51P9UltD+R+Z7/Bo6D6S+vDYh+GwuZw0K/apIJCwYFi/3Lai8FkL68uY1EYuIvYBWJewzfg0WZ0I8qzspFBcLFyJ18/qUPhP5sSPsvPx+v17ZrLpf/9xIeNE2uXY9jPRfn1+5/TmCV/7Wlbu3VoGxbt29citPmc9vXwGhNRFan4vAMCGGVkyIZsK5noj1vGUtQArlP5vR5+Jgo35v49vxL070//7FqT1+6qyM92Txs1DS51fytxC88lfu3r6yCox15fbdoA6+75zQuiXOhNYJ4ZGeeSpciBS7AieE8KHd3RPGm+tu9HbtUS76zagpHG0SJkKzG8y/+zCe1aFT774lhAuROkYylhEn0QW8OaG/zf+GJczOgf6IEf3dJ/AHZq6/F507Uh8NXSC1LF0gtSxdILUsXSC1LP3RSPlLivmPClnuwkdDvxtSf4qdIEBJipO+pdOnOzInVd6IdJFWcrJlOGl1jRxJNZ7f/OpEuvFcJvLidhSpqABIXTpBX10l5ejbe2x/pq/brtbY2v+h1uTJja9Otg0jfbV640b8Mr6s3LhKGQSv+I2rV28owCiUmdXBG/brlKDuRhxY7HegB6F17JqKf7qAbggPXq682Pt/+5nB5p+jkchf94VnX1djlxa1DSXd+Sp+R7kT/+LGpUs3vgD2i6tfXboc1F2+fOnqFwjqQHg5EF6+/NVVECqTDuhOUIegw1WK1J8l4U8LSJBW3LeZb7c67p8ynRpGdJEAAAAySURBVGTL/Ifzg/ZYWNw2lPTJJ4L/AjrGnFL3DqF04wb6N+3dz/4z9C8zYf/bUjT6/wHIWFQlRjtG4QAAAABJRU5ErkJggg==)
+**Parts of HTML Tags**
+![image](https://kidsbizclub.org/images/9-tags/01.jpg)
+
+**Typical html structure Consists of **Body**, **Head** & **Title***.**
+
+![image](https://www.oreilly.com/library/view/learning-web-design/9781449337513/httpatomoreillycomsourceoreillyimages2257981.png)
+
+
+
+***Now let's explore more Markup for HTML***
+
+**First of all let's see the evolution of HTML**
+
+![evo](https://clearlydecoded.com/assets/images/posts/2017-08-28-html-or-html5-who-controls-html/html-evolution.png)
+
+**DOCTYPEs**
+All HTML documents must start with a <!DOCTYPE> declaration.
+
+The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
+
+In HTML 5, the declaration is simple.
+
+In older documents (HTML 4 or XHTML), the declaration is more complicated because the declaration must refer to a DTD (Document Type Definition).
+
+**Comments in HTML**
+ The `<!-- -->` is an HTML comment tag.
+To comment out in HTML, insert information between `<!-- and -->` tags (browsers won't show these notes).
+Commenting in HTML allows developers to leave notes about their code, its functionality or to indicate necessary changes for the future.
+
+***Grouping Text &
+Elements In a Block***
+
+Every HTML element has a default display value, depending on what type of element it is.
+
+There are two display values: block and inline.
+
+**The `<div>` element is a block-level element.**
+
+
+***HTML Layout***
+![layout](https://www.101computing.net/wp/wp-content/uploads/HTML-Layout-2.png)
+
+`<header> `- Defines a header for a document or a section.
+`<nav>` - Defines a set of navigation links.
+`<section>` - Defines a section in a document.
+`<article>` - Defines an independent, self-contained content.
+`<aside>` - Defines content aside from the content (like a sidebar)
+
+![image2](https://4.bp.blogspot.com/-3vqJRIdB2bQ/WofTZOh8dGI/AAAAAAAABT8/mRHTwO6l-t0262yBn-N1yJREWPLYnFvxQCLcBGAs/s1600/youtube.jpg)
+
+**HTML Process
+ & Design**
+
+ ![process](https://miro.medium.com/max/2800/0*3ozruXBZTtSdH8uj.png)
+
+
+ **Goal identification:** Where I work with the client to determine what goals the new website needs to fulfill. I.e., what its purpose is.
+
+
+**Scope definition:** Once we know the site's goals, we can define the scope of the project. I.e., what web pages and features the site requires to fulfill the goal, and the timeline for building those out.
+
+
+**Sitemap and wireframe creation:** With the scope well-defined, we can start digging into the sitemap, defining how the content and features we defined in scope definition will interrelate.
+
+
+**Content creation:** Now that we have a bigger picture of the site in mind, we can start creating content for the individual pages, always keeping search engine optimization (SEO) in mind to help keep pages focused on a single topic. It's vital that you have real content to work with for our next stage:
+
+**Visual elements:** With the site architecture and some content in place, we can start working on the visual brand. Depending on the client, this may already be well-defined, but you might also be defining the visual style from the ground up. Tools like style tiles, moodboards, and element collages can help with this process.
+
+
+**Testing:** By now, you've got all your pages and defined how they display to the site visitor, so it's time to make sure it all works. Combine manual browsing of the site on a variety of devices with automated site crawlers to identify everything from user experience issues to simple broken links.
+
+
+**Launch:** Once everything's working beautifully, it's time to plan and execute your site launch! This should include planning both launch timing and communication strategies — i.e., when will you launch and how will you let the world know? After that, it's time to break out the bubbly.
+
+
+![all together](https://www.sandler.com/wp-content/uploads/2019/09/Dollarphotoclub_76404227-copy.jpg)
