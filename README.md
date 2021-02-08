@@ -13,3 +13,4 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 |Fourth Readme| [Reflection and Discussion](Reflection_and_Discussion.md) |
 |Fifth Readme| [HTML & CSS](HTML_reaed.md) |
 |Sixth Read| [JavaScript & jQuery](JavaScript.md) |
+|Sevinth Read|[Operators & Loops](JavaScript.md) |
