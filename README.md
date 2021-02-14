@@ -20,7 +20,7 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 
 
 
-**Class-201**
+**Code 201 Reading Notes**
 
 | Column 1     | Column 2     |
 | :-------:     | :----------: |
