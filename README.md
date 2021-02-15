@@ -26,5 +26,6 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 | :-------:     | :----------: |
 |Class-01  | [HTML](HTML.md) |
 |Class-02  | [Basics of HTML, CSS & JS](class-02.md) |
+|Class-03  | [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md) |
 
 |
