@@ -32,4 +32,4 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 |Class-06  | [Problem Domain, Objects, and the DOM](Class-06.md) |
 |Class-07  | [HTML Tables; JS Constructor Functions](Class-07.md) |
 |Class-08  | [CSS Layout](Class-08.md) |
-|Class-09  | [Forms and JS Events](Class-08.md) |
+|Class-09  | [Forms and JS Events](Class-09.md) |
