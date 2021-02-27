@@ -4,6 +4,9 @@ I worked for more than six years in Aspire with different teams; started as a cu
 After that I worked as an innovation coordinator and center manager with Relief International for almost 15 months. Ended as a product master with Amazon for 6 months. 
 Since I spent most of my career in the field of IT, I was always into coding, but never had the chance to get to learn it, now that I got this opportunity I will be focused during the next 6 months to learn as much as I can as I believe this internship will open a lot of opportunities for me.
  
+ My own notes| 201notes.md 
+
+
  **Class-102**
 
 | Column 1     | Column 2     |
