@@ -38,3 +38,4 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 |Class-09  | [Forms and JS Events](Class-09.md) |
 |Class-10  | [Error Handling & Debugging](Class-10.md) |
 |Class-11  | [Audio, Video, Images](Class-11.md) |
+|Class-12  | [Chart.js, Canvas](Class-12.md) |
