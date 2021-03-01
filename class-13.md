@@ -39,3 +39,4 @@ Web storage is per origin (per domain and protocol). All pages, from one origin,
 ![ss](https://imgs.developpaper.com/imgs/2017081809191810.jpg)
 
 ![ssss](https://natishalom.typepad.com/.a/6a00d835457b7453ef0168e90122f5970c-pi)
+
