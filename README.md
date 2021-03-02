@@ -40,3 +40,5 @@ Since I spent most of my career in the field of IT, I was always into coding, bu
 |Class-11  | [Audio, Video, Images](Class-11.md) |
 |Class-12  | [Chart.js, Canvas](Class-12.md) |
 |Class-13  | [Local Storage for Web Applications](Class-13.md) |
+|Class-14  | [CSS Transforms, Transitions, and Animations](Class-14.md) |
+|Class-15  | [What Google Learned About Teams](Class-15.md) |
